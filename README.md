@@ -18,3 +18,14 @@ This is not a utility. It is a philosophy.
 # The Snake Oil way (Structural Purity):
 h = g @ f   <-- Pure composition. Logic exists before data.
 result = h(x)
+```
+
+## 0x02: Components
+- **Objects**: Abstract representations of types.
+- **Morphisms**: Transformations with strict domains.
+- **Composition**: Synthesizing logic using `@`.
+
+## 0x03: Disclaimer
+- Contains no actual snakes. 
+- Contains high doses of **Abstract Nonsense**.
+- Use at your own cognitive risk.
